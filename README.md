@@ -1,7 +1,8 @@
 
 ## Hola, mi nombre es Andres Felipe Vela Florez👋
 
-Estudiante de programacion autodidacta
+Estudiante de programacion autodidacta.
+En este repositorio estoy poniendo todos los proyectos que se montan a mi portafolio
 
 ## 🛠 Skills
 Javascript, HTML, CSS
